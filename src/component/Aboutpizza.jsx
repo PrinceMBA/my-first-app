@@ -19,7 +19,7 @@ class Aboutpizza extends React.Component {
             cupiditate laborum officia nihil libero dolorem dicta dolore harum
             iste vel nemo magnam qui. ipsum dolor sit amet, consectetur
             adipisicing elit. Quibusdam ab totam itaque voluptate. Vel cum iusto
-            qui omnis suscipit, rerum labore,
+            qui omnis suscipit, rerum labdjf,
             {/* <br />
             <br />
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
