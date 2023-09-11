@@ -1,0 +1,17 @@
+.navbar {
+  background-color: rgb(226, 75, 75);
+}
+
+.link-item {
+  color: aliceblue !important;
+}
+
+footer {
+  color: aliceblue;
+  background-color: darkred;
+  height: 10vh;
+}
+
+.card {
+  width: 20rem;
+}
