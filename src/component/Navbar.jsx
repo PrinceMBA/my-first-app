@@ -39,7 +39,7 @@ class Navbar extends React.Component {
                 </li>
                 <li class="nav-item">
                   <a class="nav-link link-item" href="#contact">
-                    Get type
+                    Get types
                   </a>
                 </li>
               </ul>
